@@ -30,15 +30,7 @@ A clear expectations and access plan draft for all user and core team member.
 
 </div>
 
-<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1lGzZZEypeHQ6VM1ksoVQjZuw2TQ7mPaG&sz=w800');" markdown>
 
-### 🚀 Getting Started Guide
-
-A showcase of all the Markdown features you can use in your documentation.
-
-[:octicons-arrow-right-24: Read Guide](getting-started.md)
-
-</div>
 
 <div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1Lj5d11XVvTUJN1gPjvFBOS0ZFoCAJX6v&sz=w800');" markdown>
 
@@ -50,55 +42,6 @@ Mostly used software in Fab Lab
 
 </div>
 
-<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1vckkKiw4VYqrtBy6Klcx49GVrRNAu06G&sz=w800');" markdown>
-
-### 🚀 Image Stacking
-
-Image stacking with Siril and StarMet
-
-[:octicons-arrow-right-24: Read Guide](image_statcking_Siril.md)
-
-</div>
-
-<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1I5p0B1CN_z-YIJRhbshPFh2YHMjQHOmj&sz=w800');" markdown>
-
-### 🚀 Panoptes Basics
-
-This is documentation on using the Panoptes Unit.
-
-[:octicons-arrow-right-24: Read Guide](panoptes_basic.md)
-
-</div>
-
-<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1BhvJVS9HMZIB7ECbB4y-IOgH7cQfxbeU&sz=w800');" markdown>
-
-### 🚀 Auto Wisp
-
-This is documentation is about working on light curves.
-
-[:octicons-arrow-right-24: Read Guide](auto_wisp.md)
-
-</div>
-
-<div class="doc-card" style="background-image: url('https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/led_resistor_simulation.png?ref_type=heads');" markdown>
-
-### 🚀 TinkerCad Simulation
-
-Documentation on how to simulate in Thinkercad Circuit
-
-[:octicons-arrow-right-24: Read More](basic_simulation.md)
-
-</div>
-
-<div class="doc-card" style="background-image: url('https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/resistance.png?ref_type=heads');" markdown>
-
-### 🚀 Blinking LED on Arduino
-
-Documentation on how to control an LED
-
-[:octicons-arrow-right-24: Read More](led_blink.md)
-
-</div>
 
 <div class="doc-card" style="background-image: url('https://fabacademy.org/2025/labs/dgi/students/tsheyang-tshewang/images/week04/a_ide.jpg');" markdown>
 
@@ -107,16 +50,6 @@ Documentation on how to control an LED
 Copy this template to create new documentation pages quickly.
 
 [:octicons-arrow-right-24: View Template](template.md)
-
-</div>
-
-<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=YOUR_FILE_ID&sz=w800');" markdown>
-
-### 🚀 3D Designing
-
-Your first 3D design project.
-
-[:octicons-arrow-right-24: Read Guide](3d_design.md)
 
 </div>
 
