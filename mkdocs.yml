@@ -148,8 +148,6 @@ nav:
 
   - Documentation:
       - Overview: documentation/index.md
-      - Deploy to GitHub Pages: documentation/github-deployment.md
-      - Expectation and Roles : documentation/expectation.md
       - Getting Started Guide: documentation/getting-started.md
       - Softwares : documentation/installation.md 
       
