@@ -150,6 +150,7 @@ nav:
       - Overview: documentation/index.md
       - Getting Started Guide: documentation/getting-started.md
       - Softwares : documentation/installation.md 
+      - Github : documentation/newfile.md
       
   - Projects:
       - Overview: projects/index.md
